@@ -2,7 +2,7 @@
 
 ---
 
-A portfolio showing most of the projects I made to become a Full-Stack Developer
+A portfolio showing most of the projects I made to become a Fullstack React Developer
 
 #### User Stories
 
