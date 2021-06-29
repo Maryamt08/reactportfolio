@@ -18,7 +18,7 @@ const Contact = props => {
               <span className="mail">
                 web
                 <i className="fas fa-at at" />
-                maryamtahir
+                myemail
                 <i className="fas fa-circle dot" />
                 com
               </span>
