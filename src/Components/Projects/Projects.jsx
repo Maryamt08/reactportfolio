@@ -30,13 +30,9 @@ const Projects = props => {
           <h3 className="title">My Works</h3>
           <p className="separator" />
           <p className="subtitle">
-            Here's a list of <u>most</u> of the projects I've been working on lately. All of these
-            were built during my coding camp adventure on{' '}
-            <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">
-              freeCodeCamp
-            </a>
-            , where I've been coding for almost 7 months non-stop until I completed all the projects
-            required to get my Full-Stack Developer certification.
+            Here's a list of <u>most</u> of the projects I've worked on. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+             ex ea commodo consequat.
           </p>
         </div>
         <div className="projects-wrapper">

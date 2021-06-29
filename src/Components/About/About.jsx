@@ -13,7 +13,7 @@ const About = props => {
           <div className="desc full">
             <h4 className="subtitle">My name is Maryam.</h4>
             <p>
-              I am a web developer
+            I'm a Fullstack React Developer.
             </p>
             <p>
               I really enjoy solving problems as well as making things pretty and easy to use. I
@@ -21,18 +21,16 @@ const About = props => {
             </p>
           </div>
           <div className="title">
-            <h3>What does she do?</h3>
             <p className="separator" />
           </div>
           <div className="desc">
-            <h4 className="subtitle">I'm a programmer.</h4>
             <p>
-              For the front-end I usually work with Javascript, either standalone or including
-              popular frameworks like ReactJS and VueJS. I also make the web pretty by using Sass,
-              CSS and, whenever needed, any of their friends: Bootstrap, Bulma, etc.
+            Paragraph about front end: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
+            ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+             laboris nisi ut aliquip ex ea commodo consequat.
             </p>
             <p>
-              For the back-end I also work with NodeJS, Express, MongoDB, etc.
+              For the back-end I work with NodeJS, Express, MongoDB, etc.
             </p>
           </div>
         </article>
