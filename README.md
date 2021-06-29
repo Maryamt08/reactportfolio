@@ -1,16 +1,8 @@
 # My Portfolio
-#### Project made for the "Responsive Web Design" module in freeCodeCamp
+
 ---
 
-A portfolio showing most of the projects I made to get the Full-Stack Developer certificate at freeCodeCamp.
-
-#### Screenshot
-
-![Screenshot](Screenshot.png)
-
-#### Try it out!
-
-If you want to see it live, open [this pen](https://codepen.io/yagoestevez/full/oapQEJ) on Codepen.
+A portfolio showing most of the projects I made to become a Full-Stack Developer
 
 #### User Stories
 
@@ -31,4 +23,3 @@ These are the requirements for this project. They are all fullfilled.
 
 ---
 
-[Yago Estévez](https://twitter.com/yagoestevez)
